@@ -66,10 +66,10 @@ project-list:
         name: MemeCommunity
         description: Funny meme template community.
         url: https://memecommunity.netlify.app
-    Codespot:
-        name: Codespot
-        description: Codespot web application.
-        url: https://github.com/metedev0/codespot
+    Others:
+        name: Others
+        description: My GitHub projects.
+        url: https://github.com/metedev0
 
 # do you want to display the theme attribution? true or false
 footer: true
