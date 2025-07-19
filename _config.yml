@@ -1,24 +1,24 @@
 # Your name and what you do
-name: Eve Adam
+name: Metedev0
 bio: Software Developer
 
-description: Eve Adam's Personal Website
+description: Mete's Personal Website
 
 # Profile picture
-picture: assets/images/profile.jpg
+picture: https://pbs.twimg.com/profile_images/1945429958194597888/ST-iL3al_400x400.jpg
 
-# your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+# your url: http://metedev0.github.io
+url: https://metedev0.github.io
 
 # do you want to display social media links? true or false
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+twitter: metedev0
+linkedin: #
+github: metedev0
+email: meteyilma@proton.me
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -51,7 +51,6 @@ skills-list:
     - AngularJS, ReactJS
     - Java, Android
     - Python
-    - MySQL - MongoDB
     - Git
 
 # do you want to display a projects section? true or false
@@ -59,18 +58,18 @@ projects: true
 
 # add your projects here
 project-list:
-    QuizKnit:
-        name: QuizKnit
-        description: AI powered web application that generates a quiz based on user provided text. Users can share the quiz using a custom url and also test their knowledge by exploring quizzes created by other people.
-        url: https://quizknit.com
-    Eve:
-        name: Eve
-        description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites. Currently has 50+ Github stars. This website is built with it!
-        url: https://github.com/jibolash/Eve
-    World-Cup-History:
-        name: World Cup  History
-        description: npm package for FIFA World cup historical data.
-        url: https://github.com/jibolash/world-cup-history
+    Ksozluk:
+        name: Ksozluk
+        description: Personal Turkish dictionary.
+        url: https://ksozluk.github.io
+    MemeCommunity:
+        name: MemeCommunity
+        description: Funny meme template community.
+        url: https://memecommunity.netlify.app
+    Codespot:
+        name: Codespot
+        description: Codespot web application.
+        url: https://github.com/metedev0/codespot
 
 # do you want to display the theme attribution? true or false
 footer: true
